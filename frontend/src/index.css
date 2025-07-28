@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#root {
+  max-width: 1280px; /* Full viewport width */
+  margin: 0;
+  padding: 0; /* Let components handle padding */
+  text-align: left;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  /* ... */
+}
+
+
+
